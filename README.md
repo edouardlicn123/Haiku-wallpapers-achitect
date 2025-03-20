@@ -1,8 +1,7 @@
-# Haiku-wallpapers-achitact
+# Haikuos-wallpapers-achitact
 
-A collection of wallpapers for Haiku
+A collection of wallpapers for HaikuOS
 
-These package provide wallpapers about achitact.
-Include 4K and 1080p.
+These package provide wallpapers about achitact.All in 4K.
 
 Package distribute on CC-BY 4.0
