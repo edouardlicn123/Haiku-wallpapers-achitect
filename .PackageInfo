@@ -1,5 +1,5 @@
-name  haikuos_wallpapers_achitact
-version  0.3-3
+name  wallpapers_achitact
+version  0.3-4
 architecture   any
 summary   "A collection of wallpapers for HaikuOS"
 description   "Haiku wallpapers for users.
@@ -21,6 +21,6 @@ copyrights   "2024-2025 Haiku contributors"
 licenses   "CC-BY 4.0"
 provides {
 
-haikuos_wallpapers_achitact = 0.3-3
+wallpapers_achitact = 0.3-4
 
 }

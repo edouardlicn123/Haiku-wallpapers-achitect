@@ -1,4 +1,4 @@
-# Haikuos-wallpapers-achitact
+# Wallpapers-achitact
 
 A collection of wallpapers for HaikuOS
 
